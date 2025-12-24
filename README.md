@@ -10,9 +10,10 @@ A simple password generator written in python that helps to generate a strong an
 - Python 3.x
 
 # How to run 
-- Clone the repository:
-
-- Run the script:
+1. Clone the repository:
+https://github.com/Joyce0027/Password-Generator.git
+2. cd Password-Generator
+3. Run the script:
   python password_generator.py
  
    
